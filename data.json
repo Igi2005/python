@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Alice",
+        "age": 30,
+        "department": "Sales",
+        "salary": 50000
+    },
+    {
+        "name": "Bob",
+        "age": 24,
+        "department": "Engineering",
+        "salary": 60000
+    },
+    {
+        "name": "Charlie",
+        "age": 29,
+        "department": "Marketing",
+        "salary": 55000
+    },
+    {
+        "name": "Diana",
+        "age": 35,
+        "department": "Human Resources",
+        "salary": 48000
+    },
+    {
+        "name": "Robert",
+        "age": 19,
+        "department": "air",
+        "salary": 19000
+    },
+    {
+        "name": "Szymus",
+        "age": 19,
+        "department": "air",
+        "salary": 19001
+    }
+]
